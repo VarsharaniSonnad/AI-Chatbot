@@ -1,0 +1,119 @@
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+ * Debugger is active!
+ * Debugger PIN: 108-703-043
+ * Detected change in 'C:\\Users\\varshas\\Desktop\\Chatbot\\main.py', reloading
+ * Restarting with stat
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+ * Debugger is active!
+ * Debugger PIN: 108-703-043
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+ * Debugger is active!
+ * Debugger PIN: 108-703-043
+ * Detected change in 'C:\\Users\\varshas\\Desktop\\Chatbot\\main.py', reloading
+ * Restarting with stat
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+ * Debugger is active!
+ * Debugger PIN: 108-703-043
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+ * Debugger is active!
+ * Debugger PIN: 108-703-043
+127.0.0.1 - - [19/Aug/2026 12:58:11] "OPTIONS /chat HTTP/1.1" 200 -
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+{"timestamp": "2026-08-19T07:28:16.576615+00:00", "question": "what does alphaleo do", "answer": "**Core Identity**  \nAlphaleo is a next-generation digital transformation and Salesforce consulting firm that helps organizations leverage technology for a competitive advantage.\n\n**Services Offered**  \nWe provide consulting, design, implementation, and managed services for CRM ecosystems, data platforms, and AI-driven digital experiences.\n\n**Industry Focus**  \nOur expertise spans various industries, including financial services, manufacturing, retail, and travel & hospitality, delivering tailored solutions to meet specific needs.", "sources": [{"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}], "response_time_ms": 4514}
+127.0.0.1 - - [19/Aug/2026 12:58:16] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [19/Aug/2026 12:59:13] "OPTIONS /chat HTTP/1.1" 200 -
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+{"timestamp": "2026-08-19T07:29:16.305764+00:00", "question": "can you connect me to sale team", "answer": "What service are you interested in discussing—Salesforce consulting, AI/Vision Bench, Copado, or something else? Is this for a new or existing engagement?", "sources": [{"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}], "response_time_ms": 2911}
+127.0.0.1 - - [19/Aug/2026 12:59:16] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [19/Aug/2026 12:59:55] "OPTIONS /chat HTTP/1.1" 200 -
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+{"timestamp": "2026-08-19T07:29:59.320580+00:00", "question": "salesforce consulting", "answer": "Is this for a new engagement or an existing one?", "sources": [{"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}], "response_time_ms": 3750}
+127.0.0.1 - - [19/Aug/2026 12:59:59] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [19/Aug/2026 13:00:40] "OPTIONS /chat HTTP/1.1" 200 -
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+{"timestamp": "2026-08-19T07:30:42.872325+00:00", "question": "new one", "answer": "You can reach our sales team for Salesforce consulting at +91-8019176868 or via email at sales@alphaleo.tech. They will be happy to assist you!", "sources": [{"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}, {"title": "Alphaleo Content", "url": "local-document"}], "response_time_ms": 1999}
+127.0.0.1 - - [19/Aug/2026 13:00:42] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [19/Aug/2026 13:02:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [19/Aug/2026 13:02:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [19/Aug/2026 13:02:23] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [19/Aug/2026 13:02:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+ * Debugger is active!
+ * Debugger PIN: 108-703-043
+ * Detected change in 'C:\\Users\\varshas\\Desktop\\Chatbot\\main.py', reloading
+ * Restarting with stat
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [19/Aug/2026 16:19:17] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [19/Aug/2026 16:19:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+127.0.0.1 - - [19/Aug/2026 16:19:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+ * Debugger is active!
+ * Debugger PIN: 108-703-043
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+No device provided, using cpu
+Loading SentenceTransformer model from ./models/all-MiniLM-L6-v2.
+ * Debugger is active!
+ * Debugger PIN: 108-703-043
+ * Detected change in 'C:\\Users\\varshas\\Desktop\\Chatbot\\main.py', reloading
+ * Restarting with stat
